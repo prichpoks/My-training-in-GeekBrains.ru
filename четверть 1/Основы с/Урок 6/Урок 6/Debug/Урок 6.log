@@ -1,0 +1,4 @@
+﻿  Урок 6.cpp
+C:\Users\User\Desktop\gb c++\четверть 1\Урок 6\Урок 6\Урок 6.cpp(28,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\gb c++\четверть 1\Урок 6\Урок 6\Урок 6.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Урок 6.vcxproj -> C:\Users\User\Desktop\gb c++\четверть 1\Урок 6\Debug\Урок 6.exe

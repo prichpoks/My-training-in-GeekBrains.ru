@@ -1,0 +1,6 @@
+﻿  myLib.cpp
+C:\Users\User\Desktop\gb c++\четверть 1\Урок 7\Урок 7\myLib.cpp(8,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\gb c++\четверть 1\Урок 7\Урок 7\myLib.cpp(11,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Урок 7.vcxproj -> C:\Users\User\Desktop\gb c++\четверть 1\Урок 7\Debug\Урок 7.exe
